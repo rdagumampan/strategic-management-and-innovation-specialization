@@ -2,9 +2,9 @@
 Study and working notes on Strategic Management and Innovation specialization from Copenhagen Business School (CBS)
 
 #### What is a strategy and why do we care?
-- Strategy could determine if will succeed or fail
-- Strategy is competing to be unique and to gain sustainable competitive advantage
+- Strategy is competing to be unique and to gain sustainable competitive advantage over the competition
 - Strategy is a plan to create value (for customers, employees, suppliers)
+- Strategy could determine if will succeed or fail
   
 Resouces:
 - A plan is not a strategy - HBR / https://www.youtube.com/watch?v=iuYlGRnC7J8
