@@ -2,11 +2,27 @@
 Study and working notes on Strategic Management and Innovation specialization from Copenhagen Business School
 
 #### What is a strategy?
+- Strategic is competing to be unique and to gain sustainable competitive advantage
+
+#### Mintzberg Five P's of Strategy
 1. Plan
-2. Ploy
-3. Pattern
-4. Position
-5. Perspective
+A deliberate and concious course of action or guidelines made in advance to deal with a strategic situation. For example, a strategic plan to enter specific market or region and how steps identified on how to achieve it.
+- Analysis tools: PEST, SWOT
+- Execution tools: Change Management and Project Management
+
+3. Ploy
+A some kind of attempt to mislead rivals and competitors to make unwise decision and action. For example making public statements and expressing intention that is not genuine. This can be dropping prices, threatening legal action and filing patents.
+- Tools: Scenario Planning, Game Theory and Futures Model
+
+5. Pattern
+A demonstration of consistent actions and activities overtime even if its not necessarily planned. For example, offerring life time service warranty for many years though the company has not really put much thought on this. Company may continue or enhance this to gain strategic advantage. Often called as Realized Strategy where as Strategy as Plan as Intentended Strategy.
+- Tools: Core Competencies Model
+
+6. Position
+Positioning the organization in environment or among its competitors. For example, being cheapest, having most service centers, specialized in a niche group of customers and rated best in customer service.
+Tools: PEST Analysis, Value Chain Analysis, Porters Diamond Model
+
+8. Perspective
 
 Resources:
 https://bigsynthesis.com/understandingaerospace/index.php/16-did-boeing-trick-airbus-into-the-a380-with-the-sonic-cruiser/
