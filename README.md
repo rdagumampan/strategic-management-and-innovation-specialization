@@ -1,5 +1,5 @@
 # strategic-management-and-innovation-specialization
-Study and working notes on Strategic Management and Innovation specialization from Copenhagen Business School
+Study and working notes on Strategic Management and Innovation specialization from Copenhagen Business School (CBS)
 
 #### What is a strategy?
 - Strategic is competing to be unique and to gain sustainable competitive advantage
@@ -19,10 +19,12 @@ A demonstration of consistent actions and activities overtime even if its not ne
 - Tools: Core Competencies Model
 
 6. Position
-Positioning the organization in environment or among its competitors. For example, being cheapest, having most service centers, specialized in a niche group of customers and rated best in customer service.
+Positioning the organization in environment or among its competitors. For example, being cheapest, being on hight end or luxury market, having most service centers, specialized in a niche group of customers and rated best in customer service.
 Tools: PEST Analysis, Value Chain Analysis, Porters Diamond Model
 
 8. Perspective
+Creating shared perspective of how inernal organization wih all its employees views itself.  If position is looking externally, perspective is looking internally. For example, Apple "think different" to create culture and personality on making best products in mosyt innovative way.
+- Tools: Core Competencies Model,. Trompenaars Cultural Dimensions
 
 Resources:
 https://bigsynthesis.com/understandingaerospace/index.php/16-did-boeing-trick-airbus-into-the-a380-with-the-sonic-cruiser/
