@@ -1,10 +1,16 @@
 # strategic-management-and-innovation-specialization
 Study and working notes on Strategic Management and Innovation specialization from Copenhagen Business School (CBS)
 
-#### What is a strategy?
-- Strategic is competing to be unique and to gain sustainable competitive advantage
+#### What is a strategy and why do we care?
+- Strategy could determine if will succeed or fail
+- Strategy is competing to be unique and to gain sustainable competitive advantage
+- Strategy is a plan to create value (for customers, employees, suppliers)
+  
+Resouces:
+- A plan is not a strategy - HBR / https://www.youtube.com/watch?v=iuYlGRnC7J8
+- What is strategy - HBR / https://www.youtube.com/watch?v=o7Ik1OB4TaE
 
-#### Mintzberg Five P's of Strategy
+#### Henry Mintzberg Five P's of Strategy
 1. Plan. 
 A deliberate and concious course of action or guidelines made in advance to deal with a strategic situation. For example, a strategic plan to enter specific market or region and how steps identified on how to achieve it.
 - Analysis tools: PEST, SWOT
@@ -27,6 +33,6 @@ Creating shared perspective of how inernal organization wih all its employees vi
 - Tools: Core Competencies Model,. Trompenaars Cultural Dimensions
 
 Resources:
-https://bigsynthesis.com/understandingaerospace/index.php/16-did-boeing-trick-airbus-into-the-a380-with-the-sonic-cruiser/
-https://www.mindtools.com/a1snnzo/mintzbergs-5-ps-of-strategy
-https://www.ifm.eng.cam.ac.uk/research/dstools/mintzbergs-5-ps-for-strategy/
+- https://bigsynthesis.com/understandingaerospace/index.php/16-did-boeing-trick-airbus-into-the-a380-with-the-sonic-cruiser/
+- https://www.mindtools.com/a1snnzo/mintzbergs-5-ps-of-strategy
+- https://www.ifm.eng.cam.ac.uk/research/dstools/mintzbergs-5-ps-for-strategy/
