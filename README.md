@@ -36,3 +36,5 @@ Resources:
 - https://bigsynthesis.com/understandingaerospace/index.php/16-did-boeing-trick-airbus-into-the-a380-with-the-sonic-cruiser/
 - https://www.mindtools.com/a1snnzo/mintzbergs-5-ps-of-strategy
 - https://www.ifm.eng.cam.ac.uk/research/dstools/mintzbergs-5-ps-for-strategy/
+- Power, Strategy, and the Workplace - Big Think / https://www.youtube.com/watch?v=EYZuJ4HW3ek
+- 3 game theory tactics, explained / https://www.youtube.com/watch?v=PsLaI4jDftA
