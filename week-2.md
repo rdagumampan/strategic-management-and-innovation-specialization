@@ -43,4 +43,6 @@ This can be very rational and objective in front end but wasnt successful in the
 ## References
 - The Origin of Strategy / https://www.strategyskills.com/Articles/Documents/origin_strategy.pdf
 - http://www.forbes.com/sites/stevedenning/2012/11/20/what-killed-michael-porters-monitor-group-the-one-force-that-really-matters/
-  
+- https://www.forbes.com/sites/karlmoore/2011/06/21/emergent-strategy-demands-emergent-learning/
+- https://www.forbes.com/sites/stevedenning/2011/04/08/mintzberg-on-management/
+
