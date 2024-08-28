@@ -18,6 +18,7 @@ Sample
 ![image](https://github.com/user-attachments/assets/2b98f304-5ed8-4a96-bf11-d35135a86f8a)
 
 ### References
+- https://www.edrawmax.com/article/guide-to-understand-the-growth-share-matrix.html
 - https://en.wikipedia.org/wiki/Growth%E2%80%93share_matrix
 - https://strategicmanagementinsight.com/tools/bcg-matrix-growth-share/
 - https://www.youtube.com/watch?v=Uuuxs9gO8C0
